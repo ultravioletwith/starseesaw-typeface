@@ -1,1 +1,1 @@
-# star-seesaw-typeface
+# starseesaw-typeface
